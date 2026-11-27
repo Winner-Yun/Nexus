@@ -1,0 +1,28 @@
+NEXUS CONTROL CENTER END USER SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 NEXUS Control Center. All rights reserved.
+
+1. GRANT OF LICENSE
+NEXUS Control Center grants you a personal, non-exclusive, non-transferable
+license to install and use this software on your personal or corporate
+workstation for the purpose of system monitoring, application and process
+management, file organization, storage optimization, screen capture and
+device mirroring, network diagnostics, and hardware inspection.
+
+2. LOCAL-FIRST & DATA PRIVACY
+NEXUS Control Center operates 100% locally on your workstation. It does not
+transmit your files, screenshots, recordings, system telemetry, network
+diagnostics, or administrative audit logs to any external or third-party
+servers.
+
+3. RESTRICTIONS
+You may not:
+- Reverse engineer, decompile, or disassemble NEXUS Control Center, except
+  to the extent permitted by applicable law.
+- Distribute, lease, rent, or sublicense NEXUS Control Center to
+  unauthorized third parties.
+
+4. DISCLAIMER OF WARRANTIES
+NEXUS CONTROL CENTER IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. THE AUTHORS AND COPYRIGHT HOLDERS ARE NOT LIABLE FOR ANY
+CLAIMS, DAMAGES, OR OTHER LIABILITIES ARISING FROM THE USE OF THIS SOFTWARE.
